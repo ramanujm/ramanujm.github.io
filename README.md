@@ -1,2 +1,2 @@
 # ramanujm.github.io
-# This is a read me file of githunb pages
+# This is a read me file of github pages
